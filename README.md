@@ -13,34 +13,34 @@ The objective of this assignment is to familiarize students with the basic workf
 ## Task 1: Repository Setup
 
 1. **GitHub Repository Creation:**
-   - Log in to your GitHub account.
-   - Create a new repository on GitHub (let's call it "PLPBasicGitAssignment").
-   - Initialize it with a README file.
+   - Logged in to my GitHub account.
+   - Created a new repository on GitHub (let's call it "PLPBasicGitAssignment").
+   - Initialized it with a README file.
 
 ## Task 2: Local Setup
 
 2. **Local Folder Setup:**
-   - Create a new folder on your local machine (e.g., "PLPBasicGitAssignment").
-   - Open a terminal or command prompt and navigate to the created folder.
+   - Created a new folder on my local machine (e.g., "PLPBasicGitAssignment").
+   - Opened the terminal or command prompt and navigated to the created folder.
 
 3. **Git Initialization:**
-   - Initialize a new Git repository in your local folder.
+   - Initialized a new Git repository in your local folder.
      ```bash
      git init
      ```
 
 4. **Connecting to GitHub:**
-   - Link your local repository to the GitHub repository you created in Task 1.
+   - Linked my local repository to the GitHub repository.
      ```bash
      git remote add origin <repository-url>
      ```
-     Replace `<repository-url>` with the actual URL of your GitHub repository.
+     Replaced `<repository-url>` with the actual URL of my GitHub repository.
 
 ## Task 3: Making Changes
 
 5. **Create a File:**
-   - Inside your local folder, create a new text file (e.g., `hello.txt`).
-   - Add a simple text message (e.g., "Hello, Git!").
+   - Inside my local folder, I created a new text file (e.g., `hello.txt`).
+   - Added a simple text message (e.g., "Hello, Git!").
 
 6. **Committing Changes:**
    - Stage the changes.
@@ -63,9 +63,4 @@ The objective of this assignment is to familiarize students with the basic workf
 ## Task 5: Verification
 
 8. **Verify on GitHub:**
-   - Visit your GitHub repository in a web browser and confirm that the `hello.txt` file and commit message are visible.
-
-## Submission:
-
-- Ensure all changes are pushed to your GitHub repository.
-- Share the link to your GitHub repository with the instructor or submit it as per the class instructions.
+   - Visited my GitHub repository in a web browser to confirm that the `hello.txt` file and commit message are visible.
